@@ -1,8 +1,22 @@
-ankisyncd
-=========
+<div align="center">
 
+# anki-sync-server
+
+
+[![Github contributors](https://img.shields.io/github/contributors/ankicommunity/anki-sync-server)](https://github.com/ankicommunity/anki-sync-server/graphs/contributors)
+[![Github build check](https://img.shields.io/github/checks-status/ankicommunity/anki-sync-server/develop)](https://github.com/ankicommunity/anki-sync-server/actions)
+<br />
+[![PyPI version](https://img.shields.io/pypi/v/anki-sync-server)](https://pypi.org/project/anki-sync-server)
+[![PyPI downloads](https://img.shields.io/pypi/dm/anki-sync-server)](https://pypi.org/project/anki-sync-server)
+<br />
+[![DockerHub version](https://img.shields.io/docker/v/ankicommunity/anki-sync-server?label=dockerhub%20version&sort=date)](https://hub.docker.com/repository/docker/ankicommunity/anki-sync-server)
+[![DockerHub pulls](https://img.shields.io/docker/pulls/ankicommunity/anki-sync-server)](https://hub.docker.com/repository/docker/ankicommunity/anki-sync-server)
+[![DockerHub stars](https://img.shields.io/docker/stars/ankicommunity/anki-sync-server)](https://hub.docker.com/repository/docker/ankicommunity/anki-sync-server)
+<br />
 [![Documentation Status](https://readthedocs.org/projects/anki-sync-server/badge/?version=latest)](https://anki-sync-server.readthedocs.io/?badge=latest)
 [![Gitter](https://badges.gitter.im/ankicommunity/community.svg)](https://gitter.im/ankicommunity/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+</div>
 
 [Anki][] is a powerful open source flashcard application, which helps you
 quickly and easily memorize facts over the long term utilizing a spaced
